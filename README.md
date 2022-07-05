@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nayana-r-9
+- 👋 Hi, I’m Nayana R
 - 👀 I’m interested in Data scienc, Machine learning and deep learning 
 - 🌱 I’m currently learning Full stack Data science course at Almabetter
 - 💞️ I’m looking to collaborate on ...
